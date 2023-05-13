@@ -1,0 +1,11 @@
+.cardWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.singleCard {
+	border: 1px solid #000;
+	margin-bottom: 30px;
+	border-radius: 5px;
+}
